@@ -489,12 +489,12 @@ infracost breakdown --path .
 
 ## 📚 Documentation
 
-### Available Documentation   - these links are still blank and will be filled as we audit the entire security procedure and train the StartupCo staff members on how to respond to security threats and maintain operational excellence
+### Available Documentation   - these hyperlinks(Security Runbooks, Architecture Diagrams, Team Training, Compliance Reports) are still blank and will be populated as we audit the entire security procedure and train the StartupCo staff members on how to respond to security threats and maintain operational excellence
 
--  Links yet to be populated  **[Security Runbooks](./docs/runbooks/)**: Operational procedures and emergency response 
--  Links yet to be populated **[Architecture Diagrams](./docs/architecture/)**: Infrastructure design and data flow
--  Links yet to be populated **[Team Training](./docs/training/)**: Security awareness and tool usage
--  Links yet to be populated **[Compliance Reports](./docs/compliance/)**: Audit evidence and certifications
+-   **[Security Runbooks](./docs/runbooks/)**: Operational procedures and emergency response 
+-   **[Architecture Diagrams](./docs/architecture/)**: Infrastructure design and data flow
+-   **[Team Training](./docs/training/)**: Security awareness and tool usage
+-   **[Compliance Reports](./docs/compliance/)**: Audit evidence and certifications
 
 ### External Resources
 
